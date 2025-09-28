@@ -1,5 +1,4 @@
 [build]
-  base = "coin-transfert-pro-copy"
   publish = "dist"
   command = "npm run build"
 
